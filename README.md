@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umbrella1024
 - 👀 I’m interested in game engine,game development
-- 🌱 I’m currently learning unity & C++
+- 🌱 I’m currently learning Unity & C++
 - 💞️ I’m looking to collaborate on game development
 - 📫 Contact me with qq:2240102976
 
